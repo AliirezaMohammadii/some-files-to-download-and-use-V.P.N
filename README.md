@@ -9,7 +9,7 @@ It's not possible to download and enable these extension directly from chrome.go
 So, we can use github because github.com is not blocked yet!
 <br/>
 
-Well, I've put all the download URLs in "Download links to send" text file, and you can send the text file (via email, or ...) to your friends, and they can use it to download any of chrome vpn extension files. (You can't send the files via email directly, because Google Security checks the content of files while uploading in attachment and blocks uploading process!)
+Well, I've put all the download URLs in "download links to send" text file, and you can send the text file (via email, or ...) to your friends, and they can use it to download any of chrome vpn extension files. (You can't send the files via email directly, because Google Security checks the content of files while uploading in attachment and blocks uploading process!)
 
 # How to enable VPN?
 Well, to enable and use any of VPNs, download the extension file and unzip it. Then go to Chrome app and select "Manage extensions".
