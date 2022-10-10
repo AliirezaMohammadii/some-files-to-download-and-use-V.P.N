@@ -14,7 +14,7 @@ and you can send the text file (via email, or ...) to your friends, and they can
 # How to enable VPN?
 Well, to enable and use the vpn, download the extension and unzip it. Then go to Chrome app and select "Manage extensions".
 
-<p align='center'>
+<p align='center' width='50%' height='50%'>
   <img src="https://github.com/AliirezaMohammadii/VPN-Extensions-for-Chrome/blob/main/images/select%20Manage%20extensions.png" />
 </p>
 
