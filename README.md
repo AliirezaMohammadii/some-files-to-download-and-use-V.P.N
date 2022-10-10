@@ -15,7 +15,7 @@ Well, I've put all the download URLs in "download links to send" text file, and 
 Well, to enable and use any of VPNs, download the extension file and unzip it. Then go to Chrome app and select "Manage extensions".
 
 <p align='center'>
-  <img src="https://github.com/AliirezaMohammadii/VPN-Extensions-for-Chrome/blob/main/images/select%20Manage%20extensions.png" width='75%' height='75%' />
+  <img src="https://github.com/AliirezaMohammadii/VPN-Extensions-for-Chrome/blob/main/images/select%20Manage%20extensions.png" width='80%' height='80%' />
 </p>
 
 Enable "developer mode" on top-right. Then click on "Load unpacked". Find and select the unzipped file, and now the extension must be enabled ;)
