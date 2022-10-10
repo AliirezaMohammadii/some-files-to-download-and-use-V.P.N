@@ -5,7 +5,7 @@ Hi Guys!
 To help people who don't have access to an available vpn or proxy, uploaded extension files on this repository may help in necessary cases, to get around the internet filtering caused by Islamic Republic.
 <br/>
 
-It's not possible to download and enable these extension directly from google, because the URLs related to them are blocked by Islamic Republic!
+It's not possible to download and enable these extension directly from chrome.google.com, because the URLs related to these extensions are blocked by Islamic Republic!
 So, we can use github because github.com is not blocked yet!
 <br/>
 
