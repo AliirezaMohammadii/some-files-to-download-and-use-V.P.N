@@ -6,7 +6,7 @@ To help people who don't have access to an available vpn or proxy, uploaded exte
 <br/>
 
 It's not possible to download and enable these extension directly from chrome.google.com, because the URLs related to these extensions on this domain, are blocked by Islamic Republic!
-So, we can use github because github.com is not blocked yet!
+So, we can use github because github.com domain is not blocked yet!
 <br/>
 
 Well, I've put all the download URLs in "download links to send" text file, and you can send the text file (via email, or ...) to your friends, and they can use it to download any of chrome vpn extension files. (You can't send the files via email directly, because Google Security checks the content of files while uploading in attachment and blocks uploading process!)
