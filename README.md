@@ -1,7 +1,7 @@
 
-<h3>
+<h2>
 Hi Guys!
-</h3>
+</h2>
 
 To help people who don't have access to an available vpn or proxy, uploaded extension files on this repository may help in necessary cases, to get around the internet filtering caused by Islamic Republic.
 <br/>
