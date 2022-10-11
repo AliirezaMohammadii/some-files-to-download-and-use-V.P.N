@@ -19,6 +19,7 @@ Well, I've put all the download URLs in "download_links_all-in-one" text file, a
 How to enable the extensions?
 </h3>
 Well, to enable and use any of VPNs, download the extension file and unzip it. Then go to Chrome app and select "Manage extensions".
+<br/>
 
 <p align='center'>
   <img src="https://github.com/AliirezaMohammadii/VPN-Extensions-for-Chrome/blob/main/images/select%20Manage%20extensions.png" width='80%' height='80%' />
