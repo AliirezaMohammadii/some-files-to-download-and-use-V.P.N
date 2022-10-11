@@ -3,7 +3,8 @@
 Hi Guys!
 </h3>
 
-To help people who don't have access to an available vpn or proxy, uploaded extension files on this repository may help in necessary cases, to get around the internet filtering caused by Islamic Republic.
+about vpn extensions for chrome:
+To help people who don't have access to an available vpn or proxy, uploaded chrome extension files on this repository may help in necessary cases, to get around the internet filtering caused by Islamic Republic.
 <br/>
 
 It's not possible to download and enable these extension directly from chrome.google.com, because the URLs related to these extensions on this domain are blocked by Islamic Republic!
