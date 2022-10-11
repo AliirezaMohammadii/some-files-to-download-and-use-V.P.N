@@ -3,7 +3,9 @@
 Hi Guys!
 </h3>
 
-# About vpn extensions for chrome
+<h2>
+About vpn extensions for chrome
+</h2>
 To help people who don't have access to an available vpn or proxy, uploaded chrome extension files on this repository may help in necessary cases, to get around the internet filtering caused by Islamic Republic.
 <br/>
 
@@ -13,7 +15,9 @@ So, we can use github because github.com domain is not blocked yet!
 
 Well, I've put all the download URLs in "download_links_all-in-one" text file, and you can send it to your friends (via email, or ...) and they can use it to download any of chrome vpn extension files. (You can't send the files via email directly, because Google Security checks the content of files while uploading to attachment and blocks uploading process!)
 
-# How to enable the extensions?
+<h2>
+How to enable the extensions?
+</h2>
 Well, to enable and use any of VPNs, download the extension file and unzip it. Then go to Chrome app and select "Manage extensions".
 
 <p align='center'>
