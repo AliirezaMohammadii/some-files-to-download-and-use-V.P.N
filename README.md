@@ -10,7 +10,7 @@ About chrome extensions, it's not possible to download and enable these extensio
 So, we can use github because github.com domain is not blocked yet!
 <br/>
 
-Well, I've put all the download URLs in "download_links_all-in-one" text file, and you can send it to your friends (via email, or ...) and they can use it to download any of them. (You can't send the files via email directly, because Google Security checks the content of files while uploading to attachment and blocks uploading process!)
+I've put all the download URLs in "download_links_all-in-one" text file, and you can send it to your friends (via email, or ...) and they can use it to download any of them. (You can't send the files via email directly, because Google Security checks the content of files while uploading to attachment and blocks uploading process!)
 
 <h2>
 How to enable vpn extensions for chrome?
