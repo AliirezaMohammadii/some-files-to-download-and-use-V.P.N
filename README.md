@@ -13,7 +13,7 @@ It's not possible to download and enable these extension directly from chrome.go
 So, we can use github because github.com domain is not blocked yet!
 <br/>
 
-Well, I've put all the download URLs in "download_links_all-in-one" text file, and you can send it to your friends (via email, or ...) and they can use it to download any of chrome vpn extension files. (You can't send the files via email directly, because Google Security checks the content of files while uploading to attachment and blocks uploading process!)
+Well, I've put all the download URLs in "download_links_all-in-one" text file, and you can send it to your friends (via email, or ...) and they can use it to download any of extension files. (You can't send the files via email directly, because Google Security checks the content of files while uploading to attachment and blocks uploading process!)
 
 <h3>
 How to enable the extensions?
