@@ -6,3 +6,4 @@ https://github.com/AliirezaMohammadii/VPN-Extensions-for-Chrome/blob/main/zenmat
 
 installable VPNs / mobile device / android:
 https://github.com/AliirezaMohammadii/VPN-Extensions-for-Chrome/blob/main/installable%20vpn/android/Samsung_Max.apk
+
