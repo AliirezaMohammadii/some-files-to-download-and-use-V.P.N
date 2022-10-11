@@ -22,4 +22,4 @@ Well, to enable and use any of VPNs, download the extension file and unzip it. T
 Enable "developer mode" on top-right. Then click on "Load unpacked". Find and select the unzipped file, and now the extension must be enabled ;)
 <br/>
 
-BTW, I'll be glad if you wanna update this repository with any "chrome vpn extensions", "proxies", "installable VPNs for desktop/mobile" or ... .
+BTW, I'll be glad if you wanna update this repository with any "vpn extensions for chrome", "proxies", "installable VPNs for desktop/mobile" or ... .
