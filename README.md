@@ -19,7 +19,7 @@ Well, I've put all the download URLs in "download_links_all-in-one" text file, a
 How to enable the extensions?
 </h3>
 
-Well, to enable and use any of VPNs, download the extension file and unzip it. Then go to Chrome app and select "Manage extensions".
+Well, to enable and use any of VPN extensions, download the extension file and unzip it. Then go to Chrome app and select "Manage extensions".
 
 <p align='center'>
   <img src="https://github.com/AliirezaMohammadii/VPN-Extensions-for-Chrome/blob/main/images/select%20Manage%20extensions.png" width='80%' height='80%' />
@@ -28,4 +28,4 @@ Well, to enable and use any of VPNs, download the extension file and unzip it. T
 Enable "developer mode" on top-right. Then click on "Load unpacked". Find and select the unzipped file, and now the extension must be enabled ;)
 <br/>
 
-BTW, I'll be glad if you wanna update this repository with any "vpn extensions for chrome", "proxies", "installable VPNs for desktop/mobile" or ... .
+BTW, I'll be glad if you wanna update this repository with any "vpn extensions for chrome", "proxies", "installable VPNs for desktop/mobile" or anything else.
