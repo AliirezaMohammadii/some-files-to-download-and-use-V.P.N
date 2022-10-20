@@ -25,4 +25,8 @@ Well, to enable and use any of VPN extensions, download the extension file and u
 Enable "developer mode" on top-right. Then click on "Load unpacked". Find and select the unzipped file, and now the extension must be enabled ;)
 <br/>
 
+And something else...
+<br/>
+When you add any of vpn extension by this way and enable it to use, in "Manage extensions" section, you'll see an "Errors" button beside the extension information, which shows that some problems has been occured (However VPN extension works correctly despite existing the errors). I don't know what exactly are these errors and what problems they may occur (and I'm not actually curious to know :) ); But my suggestion is to enable one of these extensions and use it to download and enable the other one from chrome.google.com directly (for example by googling "zenmate chrome extension"), and you'll not face those errors this time!
+
 BTW, I'll be glad if you wanna update this repository with any "vpn extensions for chrome", "proxies", "installable VPNs for desktop/mobile" or anything else.
