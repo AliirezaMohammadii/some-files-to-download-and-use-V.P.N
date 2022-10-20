@@ -1,8 +1,6 @@
 VPN extensions for chrome:
-https://github.com/AliirezaMohammadii/VPN-Extensions-for-Chrome/blob/main/cyberGhost-vpn_chrome_extension.zip
-https://github.com/AliirezaMohammadii/VPN-Extensions-for-Chrome/blob/main/setup-vpn_chrome_extension.zip
-https://github.com/AliirezaMohammadii/VPN-Extensions-for-Chrome/blob/main/windscribe-vpn_chrome_extension.zip
-https://github.com/AliirezaMohammadii/VPN-Extensions-for-Chrome/blob/main/zenmate-vpn_chrome_extension.zip
+https://github.com/AliirezaMohammadii/VPN-extensions-for-chrome/blob/main/cyberGhost-vpn_chrome_extension.zip
+https://github.com/AliirezaMohammadii/VPN-extensions-for-chrome/blob/main/zenmate-vpn_chrome_extension.zip
 
 installable VPNs / mobile device / android:
 https://github.com/AliirezaMohammadii/VPN-Extensions-for-Chrome/blob/main/installable%20vpn/android/Samsung_Max.apk
