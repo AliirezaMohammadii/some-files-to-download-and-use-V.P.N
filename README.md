@@ -39,4 +39,5 @@ Update 2.
 Note... You can not use cyberGhost and zenmate when both are enabled in your extensions. Disable one of them (in "Manage extensions" by tapping on its blue toggle button) for using the other one :P
 
 <br/>
+<br/>
 BTW, I'll be glad if you wanna update this repository with any "vpn extensions for chrome", "proxies", "installable VPNs for desktop/mobile" or anything else.
